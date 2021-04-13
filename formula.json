@@ -1,3 +1,3 @@
 [{
-  "name": "SQL.Client", "command": "sql", "description": "ODS Query Client", "castUrl": "https://raw.githubusercontent.com/jeremyosterhoudt/OutilCast/master/appcast.xml", "preInstall": false
+  "name": "SQL.Client", "command": "sql", "description": "ODS Query Client", "castUrl": "https://raw.githubusercontent.com/jeremyosterhoudt/OutilCast/master/appcast.xml", "preInstall": true
 }]
